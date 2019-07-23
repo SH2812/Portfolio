@@ -1,0 +1,45 @@
+body {
+  background-image: url("https://www.capcitycreative.ca/wp-content/uploads/2013/09/bright-backgrounds.jpg");
+}
+
+
+
+
+.topnav {
+  overflow: hidden;
+  background-color: red;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+
+
+/* Style the "active" element to highlight the current page */
+.topnav a.active {
+  background-color: #2196F3;
+  color: white;
+}
+
+.welcome {
+  padding-bottom:50px;
+}
+
+.borderp{
+  background-color: #F07AEA;
+  padding-bottom:20px;
+}
